@@ -1,0 +1,12 @@
+# Word report
+*.doc
+*.docx
+
+# Compiled binaries
+*.app
+*.out
+*.exe
+
+# Object files
+*.o
+*.obj
